@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MetarApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2325cc08dbe362f49c9f988bd1466063a930c6e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MetarApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MetarApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
